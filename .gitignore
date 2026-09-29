@@ -1,0 +1,8 @@
+# the parcels' previous builds + history stay local (they're the owner's archive)
+backup/
+out/combined.npy
+shots/*.png
+!shots/walkthrough.png
+__pycache__/
+*.pyc
+.DS_Store
